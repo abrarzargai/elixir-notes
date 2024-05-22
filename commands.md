@@ -1,4 +1,4 @@
-## Phoenix Commands and Concepts
+## Phoenix Commands
 
 ### 1. Installation and Project Setup
 
